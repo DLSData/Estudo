@@ -1,0 +1,4 @@
+Arquivos inserido na pasta local 
+
+Neste conteúdo foi demonstrado como Criar, Sincronizar a Pasta local ao repositório do Github através de Chaves SSH
+

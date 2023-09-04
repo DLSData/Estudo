@@ -1,0 +1,25 @@
+Clonagem do repositório
+git init   // Inicializando o git na pasta de um novo projeto via terminal
+git clone  // Clonar um repositório remoto para sincronizar no repositorio de máquina.
+
+
+Configuracao inicial informar o nome e email
+git config --global user.mail 'email@email.com'
+git config --global user.name 'NamedeLogin'
+
+
+// git add + git status + git commit
+git add *                        // Adicionando a pasta no git 
+git commit -m "commit inicial"   // Comentario do commit no projeto no git hub
+git status 			 // Verifica status
+git commit -m "adicionado index" // Novo Commit de nova modificacao
+
+
+// Adicionando a pasta "commitada" para o repositório remoto git hub 
+$ git remote add origin git@github.com:nome do repositorio
+$ git remote -v
+
+// Empurrando commit para o Github
+$ git push origin master
+
+

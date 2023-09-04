@@ -1,0 +1,6 @@
+Gerar chave SSH (chave publica + chave privada)
+
+- Gerar a chave no Git Bash;
+- Habilitar a chave
+- Inicializar o ssh-agent
+- Passar a chave privada para o agente

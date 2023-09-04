@@ -1,0 +1,7 @@
+Alguns comandos básicos no Git Bash
+clear  // Limpa tela
+cd /   // Muda diretório
+ls     // Lista Conteúdo da Pasta
+ls -a  // Comando que lista arquivos ocultos
+cd..   // Retorna 1 nivel no diretório
+mkdir  // Cria pasta no diretorio
